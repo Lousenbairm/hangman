@@ -1,0 +1,50 @@
+1 SNAKE It is an animal. It is a carnivore. It is cold-blooded. It has no backbones. It has no limbs.
+2 BEAR It is an animal. It lives in a jungle. It is a carnivore. It is warm-blooded. It has large body and short tail.
+3 SQUIRREL It is an animal. It is an Herbivore. It is warm-blooded. It jumps from tree to tree. It likes nuts.
+4 SHARK It is an animal. It lives in the deep sea. It is a carnivore. It is warm-blooded. It has sharp teeth.
+5 WHALE It is an animal. It lives in the deep sea. It is a carnivore. It is warm-blooded. It is the biggest animal on earth.
+6 ELEPHANT It is an animal. It lives in a jungle. It is an herbivore. It is grayish to brown in colour. It is the largest living land animal.
+7 BUTTERFLY It is an insect. It flies. It is an herbivore. It is cold-blooded. It lays egg.
+8 WOODPECKER It is an animal. It flies. It is an omnivore. It is warm-blooded. It has long and sharp beak.
+9 EAGLE It is an animal. It flies. It is a carnivore. It is warm-blooded. It has hooked beak. 
+10 RAT It is an animal. It is an omnivore. It is warm-blooded. Most people hate it. It has long tail.
+11 CHINA It is a country. It is in East Asia. It is fourth largest country by area. Red and yellow colour national flag. It has largest population.
+12 CANADA It is a country. It is second largest country by area. Red and white colour national flag. It has a red maple leaf on national flag. It is in the northern part of North America.
+13 INDIA It is a country. It is in South Asia. Saffron white and green colour national flag. It is seventh largest country by area. It has second largest population.
+14 TURKEY It is a country. It is in southeastern Europe. It has a coastline on the MedIterranean Sea. Red and white colour national flag. It has a star and crescent on national flag.
+15 AUSTRALIA It is a country. It is in Oceania continent. It is sixth largest country by area. Blue white and red colour national flag. It is famous for kangaroo.
+16 SWITZERLAND It is a country. It is in Europe. Red and white colour national flag. It has a white cross on national flag. It is known for skiing during winter.
+17 GERMANY It is a country. It is in Europe. Red black and gold colour national flag. It is famous for beer and bread. the largest cIty in the country is Berlin.
+18 BANGLADESH It is a country. It is in South Asia. It has eighth largest population. Green and red colour national flag. It has a white circle in the middle of the national flag.
+19 INDONESIA It is a country. It is in Southeast Asia. Red and white colour national flag. It has fourth largest population. It consists of more than seventeen thousand islands.
+20 GREECE It is a country. It is in Southeastern Europe. Blue and white colour national flag. It is the birthplace of olympic games. Athens is the largest city in this country.
+21 LAWYER It is an occupation. He works in court. He conducts legal research. He gathers evidence. He explains laws and gives legal advices.
+22 JUDGE It is an occupation. He works in court. He listens to witness testimony. He rules on admissibility of evidence. Instruct the jury.
+23 DOCTOR It is an occupation. He works in hospital. He explains procedures treatments to patients. He interprects the test results. He performs minor surgeries.
+24 NURSE It is an occupation. He works in hospital. He wrItes reports. He organizes workloads. He provides pre and post operation care.
+25 SOLDIER It is an occupation. He Helps in disaster relief. He operates military equipment. He guards and protects people and properties. He takes orders from commander.
+26 FIREFIGHTER It is an occupation. It requires good physical fitness. It is 24 hours shirt work. He helps in disaster relief. He performs practice drills.
+27 POLICEMAN It is an occupation. He responds to emergency calls. He writes detailed reports. He patrols assigned areas. He arrests suspects.
+28 PRIEST It is an occupation. He conducts funerals and weddings. He initiates short term counselling. He manages parish education program. He works in church.
+29 REPORTER It is an occupation. He covers a wide variety of stories. He keeps up with all global happening. He verifies information. He follows news events.
+30 WAITER It is an occupation. He provides excellent customer services. He collects payments. He greets customers and present menus. He makes suggestions based on his preferences.
+31 SMARTPHONE It is an electronic device. It can be used to take video. It can be used to record audio. It can be used to browse internet. It can be used to text messages.
+32 COMPUTER It is an electronic device. It can be used to browse internet. It can be used to store massive amounts of information. It can be used to search information. It helps to sort and organize data.
+33 SPEAKER It is an electronic device. It often used in a talk. Sometimes it might disturb others. It is available in different size. It produces high amplitude sound waves.
+34 MICROPHONE It is an electronic device. It is inexpensive in general. It often used in a talk. It converts sound into electrical signal. It manipulates sound waves.
+35 PEPPER It is a necessity. It is used in cooking. It is a flavoring. It taste spicy. It is black in colour.
+36 SUGAR It is a necessity. It is used in cooking. It is a flavoring. It is white in colour. It taste sweet.
+37 SALT It is a necessity. It is used in cooking. It is a flavoring. It is white in colour. It taste salty.
+38 GINGER It is a necessity. It is used in cooking. It is a flavoring. It is orange and brown in colour. It taste spicy.
+39 GARLIC It is a necessity. It is used in cooking. It is a flavoring. It is pure white in colour. It taste weird and can be described as spicy.
+40 CHILI It is a necessity. It is used in cooking. It is a flavoring. It is red in colour. It taste spicy.
+41 SKIRT It is a necessity. It is clothing. It covers from the waist downwards. Worn by women or girls. It is usually made out of fabric.
+42 SOCK It is clothing. It covers from the waist downwards. Worn by both male and female. It usually made out of cotton. It must be worn in school.
+43 SUNGLASSES It is a fashion accessory. It is black in colour. Worn by both male and female. People usually wear it at beach. It protects our eyes.
+44 RAINCOAT It is clothing. It covers our whole body. Worn by both male and female. It is waterproof. It is used in rainy day.
+45 JACKET It is clothing. It covers from the waist upwards. Worn by both male and female. It usually made out of cotton. It keeps us warm.
+46 GLOVE It is an accessory. Worn by both male and female. Made out of rubber or cotton. Cover our palm. Protect our hands from cold or chemical.
+47 HELMET It is an accessory. Worn by both male and female. Often made from lightweight plastic materials. It is protective. Used by motorcyclist and soldier.
+48 BOOT It is a fashion accessory. Worn by both male and female. Often made from leather or rubber. It covers foot and ankle. It protects our leg from water and mud.
+49 SLIPPER It is an accessory. Worn by both male and female. Often made from leather or wool. Can be worn in both indoor or outdoor. It is a light footwear.
+50 NECKLACE It is a fashion accessory. Usually Worn by female. Commonly made of precious metals and stones. Symbols of wealth and status. Worn around the neck.
